@@ -1,4 +1,4 @@
-## Hi Fellows,
+## Hi fellows,
 
 ## Similar to the supplied functions in the assignment, these functions cache output (in this case an inverse matrix) 
 ## with the primary goal to avoid recomputation every time you call for the same output. It's actually a good exercise 
